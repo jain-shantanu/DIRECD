@@ -72,3 +72,7 @@ Run DIRECD
 .. warning::
 
   Currently install with ``conda install DIRECD`` is not suppoted.
+
+.. warning::
+
+  Please ensure the OpenJPEG library is installed prior to using DIRECD, as it is required for full functionality; we kindly recommend verifying its presence to avoid any unexpected limitations.
