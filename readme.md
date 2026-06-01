@@ -30,6 +30,8 @@ If you use DIRECD for scientific work or research presented in a publication, pl
 **Statistical Application of DIRECD**: [Shantanu Jain et al. Validating DIRECD: Statistical Analysis of
 Coronal Mass Ejections Direction Estimates from Coronal Dimmings, ApJS 281 14 (2025)](https://doi.org/10.3847/1538-4365/ae0a27)
 
+Software is available on Zenodo: [![DOI](https://zenodo.org/badge/1211306719.svg)](https://doi.org/10.5281/zenodo.20487896)
+
 ## Contact
 -----------------------
 
